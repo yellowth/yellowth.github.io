@@ -2178,6 +2178,7 @@ textarea.form-input::-webkit-resizer {
   color: var(--light-gray);
   margin-bottom: 10px;
   font-size: var(--fs-4);
+  text-align: center;
 }
 
 .modal-title {
